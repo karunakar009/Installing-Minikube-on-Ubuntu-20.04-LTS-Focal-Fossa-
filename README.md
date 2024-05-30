@@ -18,5 +18,6 @@ In this article, we will be using Docker container as a base for Minikube. In ca
 
 * Step 2. Updating system packages and installing Minikube dependencies
 
-$ sudo apt update & sudo apt upgrade
+``` $ sudo apt update & sudo apt upgrade
 $ sudo apt install -y curl wget apt-transport-https
+```
