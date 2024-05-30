@@ -28,5 +28,4 @@ Use the following curl command to download latest minikube binary
 
 ```
 $ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
-
-``
+```
