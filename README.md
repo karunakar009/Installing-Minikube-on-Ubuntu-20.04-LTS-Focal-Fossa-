@@ -22,3 +22,11 @@ In this article, we will be using Docker container as a base for Minikube. In ca
 $ sudo apt update & sudo apt upgrade
 $ sudo apt install -y curl wget apt-transport-https
 ```
+
+* Step 3. Installing Minikube
+Use the following curl command to download latest minikube binary
+
+```
+$ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+
+``
